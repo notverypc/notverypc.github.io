@@ -16,7 +16,7 @@
 title: standing on the shoulders of gaints
 # email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
-  The Mumblings of a Mac Admin.
+  The ramblings, mumblings and probably grumblings of a Mac Admin.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://notverypc.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: notverypc
