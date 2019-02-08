@@ -10,11 +10,11 @@ blog: true
 ---
 Back in December 2017 Graham Pugh wrote a slack notification post-processor for AutoPkg/JSSImporter.
 
-https://grahamrpugh.com/2017/12/22/slack-for-autopkg-jssimporter.html
+(https://grahamrpugh.com/2017/12/22/slack-for-autopkg-jssimporter.html)
 
 I really like this, but we use munki so I decided to adapt Graham’s post-processor for munki.
 
-https://github.com/notverypc/autopkg-recipes/tree/master/PostProcessors
+(https://github.com/notverypc/autopkg-recipes/tree/master/PostProcessors)
 
 The install/setup is the same as for Graham’s but as we aren’t using JSSImporter we’ll need to install the “requests” python library with `pip install requests`.
 
@@ -34,9 +34,9 @@ Changing Colour/Icon of the notifications depending on the item imported using t
 
 Thanks:
 Based on Graham Pugh's slacker.py
-https://github.com/grahampugh/recipes/blob/master/PostProcessors/slacker.py
+(https://github.com/grahampugh/recipes/blob/master/PostProcessors/slacker.py)
 
-@thehill idea on macadmin slack - https://macadmins.slack.com/archives/CBF6D0B97/p1542379199001400"
+@thehill idea on macadmin slack - (https://macadmins.slack.com/archives/CBF6D0B97/p1542379199001400")
 
- Takes elements from - https://gist.github.com/devStepsize/b1b795309a217d24566dcc0ad136f784
-https://github.com/autopkg/nmcspadden-recipes/blob/master/PostProcessors/Yo.py
+ Takes elements from - (https://gist.github.com/devStepsize/b1b795309a217d24566dcc0ad136f784)
+(https://github.com/autopkg/nmcspadden-recipes/blob/master/PostProcessors/Yo.py)
