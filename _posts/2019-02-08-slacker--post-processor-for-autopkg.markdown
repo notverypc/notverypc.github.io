@@ -8,6 +8,7 @@ tags:
 category: blog
 blog: true
 ---
+Back in December 2017 Graham Pugh wrote a slack notification post-processor for AutoPkg/JSSImporter.
 
 https://grahamrpugh.com/2017/12/22/slack-for-autopkg-jssimporter.html
 
@@ -24,7 +25,7 @@ ICONEMOJI=":ghost:"
 USERNAME = "AutoPKG"
 ```
 
-/assets/img/slacker_notification.png
+<img src="{{site.baseurl}}/assets/img/slacker_notification.png">
 
 Now during an AutoPkg run if an item is imported into Munki you’ll get a slack notification.
 
