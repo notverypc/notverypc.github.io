@@ -41,3 +41,5 @@ Based on Graham Pugh's slacker.py
  Takes elements from - 
  <a href="https://gist.github.com/devStepsize/b1b795309a217d24566dcc0ad136f784">https://gist.github.com/devStepsize/b1b795309a217d24566dcc0ad136f784</a>
 <a href="https://github.com/autopkg/nmcspadden-recipes/blob/master/PostProcessors/Yo.py">https://github.com/autopkg/nmcspadden-recipes/blob/master/PostProcessors/Yo.py</a>
+
+I Blame Pat for this....
